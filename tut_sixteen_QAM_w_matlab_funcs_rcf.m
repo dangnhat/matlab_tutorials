@@ -1,3 +1,6 @@
+clear all;
+close all;
+clc
 
 %%% Generate a Random Binary Data Stream %%%
 M = 16;                     % Size of signal constellation
